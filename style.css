@@ -1,0 +1,15 @@
+/* Apa itu Css? */
+/* CSS merupakan sebuah styling untuk merubah tampilan pada file html supaya tidak terkesan kaku dan monoton */
+main p {
+  color: blue;
+  font-size: 18px;
+}
+header h1 {
+  color: green;
+}
+header h3 {
+  color: red;
+}
+img {
+  width: 30px;
+}
